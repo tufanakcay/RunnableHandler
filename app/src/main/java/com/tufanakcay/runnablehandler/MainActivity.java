@@ -43,7 +43,6 @@ public class MainActivity extends AppCompatActivity {
 
         handler.post(runnable);
         button.setEnabled(false);
-
     }
 
     public void stop(View view) {
